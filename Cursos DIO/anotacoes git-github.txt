@@ -1,0 +1,20 @@
+Criando Repositórios no Github
+
+Editando o Readme dentro do próprio GitHub
+Clica no "lápis" dentro do repositório
+
+Baixando o repositório para a Maquina
+Clica Code
+Escolhe a forma: HTTPS, SSH, Github
+copia link
+Vai na pasta no Windows
+Abre o terminal
+poe o comando "git clone" e copia o link do github
+
+
+comandos gitbash
+cd - abre a pasta selecionada
+git status - mostra o status do repositório
+git add . ou -A - adiciona todas as pastas novas ao repositório no Github 
+git commit -m "" - adiciona uma mensagem/comentário ao commit
+git push origin main - envia o commit para o Github
